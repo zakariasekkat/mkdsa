@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<form action="" method="POST">
+  <label>
+    Unsubscribe :
+    <input type="text" name="email" style="width: 40%">
+  </label>
+</form>
+</body>
+</html>
